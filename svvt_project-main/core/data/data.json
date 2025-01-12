@@ -1,0 +1,40 @@
+{
+    "url": {
+        "home_page": "https://www.flypgs.com/en",
+        "baggage_allowance_page": "https://www.flypgs.com/en/travel-services/flight-services/additional-baggage",
+        "bolbol_page": "https://www.flypgs.com/en/bolbol",
+        "signup_page": "https://web.flypgs.com/signup?language=EN",
+        "login_page": "https://web.flypgs.com/login",
+        "flight_page": "https://web.flypgs.com/flexible-search?language=EN&adultCount=1&childCount=0&infantCount=0&soldierCount=0&arrivalPort=DXB&departurePort=STN&currency=GBP&dateOption=1&departureDate=2025-01-28&returnDate=2025-02-12"
+    },
+
+    "data": {
+        "searchData": "cheap flights"
+    },
+
+    "signup": {
+        "name": "aldin",
+        "surname": "almir",
+        "number": "5678910",
+        "email": "aaldin.aldin@gmail.com"
+    },
+    "bolbol": {
+        "name": "aldin",
+        "surname": "almir",
+        "number": "5678910",
+        "email": "aaldin.almir@gmail.com"
+    },
+
+
+    "login": {
+        "number": "5678910",
+        "password": "Password123456"
+
+    },
+
+    "carrental": {
+        "location": "Belgrade - Airport"
+    }
+
+
+}
